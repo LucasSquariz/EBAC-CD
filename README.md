@@ -24,7 +24,7 @@ Cada pasta contém um projeto e os respectivos arquivos associados a ele.
 
 ## 📈 Descrição dos Projetos
 
-- **Módulo 13 – [Descoberta de Dados](Módulo 13/Lucas_Silveira_Exercicio_M13.ipynb):**  
+- **Módulo 13 – [Descoberta de Dados](./Módulo 13/Lucas_Silveira_Exercicio_M13.ipynb) :**  [Descoberta de Dados](./Módulo 13/Lucas_Silveira_Exercicio_M13.ipynb)
   Projeto introdutório à ciência de dados para exploração e entendimento de conceitos-chave.
 
 - **Módulo 17 –**  
