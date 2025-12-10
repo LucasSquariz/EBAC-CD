@@ -27,7 +27,9 @@ Cada pasta contém um projeto e os respectivos arquivos associados a ele.
 - **[Descoberta de Dados](https://github.com/LucasSquariz/EBAC-CD/blob/main/M%C3%B3dulo%2013/Lucas_Silveira_Exercicio_M13.ipynb) (Módulo 13):** 
   Projeto introdutório à ciência de dados para exploração e entendimento de conceitos-chave.
 
-- **Módulo 17 –**  
+- **[Predição de score (parte 1)](https://github.com/LucasSquariz/EBAC-CD/blob/main/M%C3%B3dulo%2017/Lucas_Silveira_M17_Projeto%20(1).ipynb) (Módulo 17) –**
+  Modelo feito com o objetivo de prever score de crédito de usuários com base em sua formação acadêmica, renda, estado civíl e propriedades. Nessa parte está somente a análise e pré processamento dos dados
+   
 - **Módulo 21 –**  
 - **Módulo 26 –**  
 - **Módulo 33 –**  
